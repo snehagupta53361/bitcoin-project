@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ae941177.js",
+    "static/media/bitcoin.png": "/static/media/bitcoin.04101b0b163c035fa57e.png",
+    "index.html": "/index.html",
+    "main.ae941177.js.map": "/static/js/main.ae941177.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ae941177.js"
+  ]
+}
